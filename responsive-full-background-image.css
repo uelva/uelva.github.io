@@ -3,7 +3,7 @@
 */
 body {
   /* Location of the image */
-  background-image: url(![jm]);
+  background-image: url(https://cloud.githubusercontent.com/assets/15127467/10532522/dde273ce-7384-11e5-85d7-b325bcbede30.jpg);
   
   /* Image is centered vertically and horizontally at all times */
   background-position: center center;
@@ -31,6 +31,6 @@ body {
   body {
     /* The file size of this background image is 93% smaller
      * to improve page load speed on mobile internet connections */
-    background-image: url(![jms]);
+    background-image: url(https://cloud.githubusercontent.com/assets/15127467/10532521/dde11510-7384-11e5-9b57-4cb76381dcd0.jpg);
   }
 	}
