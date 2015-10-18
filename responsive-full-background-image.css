@@ -3,7 +3,7 @@
 */
 body {
   /* Location of the image */
-  background-image: url(https://github-cloud.s3.amazonaws.com/assets/15127467/10565770/acc731c8-759e-11e5-8996-44b5d9523bff.jpg);
+  background-image: url(https://github-cloud.s3.amazonaws.com/assets/15127467/10566166/e71a6ac4-75a4-11e5-8ac2-66a1d4f7e66d.jpg);
   
   /* Image is centered vertically and horizontally at all times */
   background-position: center center;
@@ -31,6 +31,6 @@ body {
   body {
     /* The file size of this background image is 93% smaller
      * to improve page load speed on mobile internet connections */
-    background-image: url(https://github-cloud.s3.amazonaws.com/assets/15127467/10565771/acc9933c-759e-11e5-9f6d-0691bdd20c22.jpg);
+    background-image: url(https://github-cloud.s3.amazonaws.com/assets/15127467/10566165/e718a2de-75a4-11e5-8bc5-e516c701e0b6.jpg);
   }
 	}
