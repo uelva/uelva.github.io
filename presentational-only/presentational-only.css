@@ -30,12 +30,12 @@ h1 {
 }
 
 @font-face { 
-  font-family: Boecklins;
+  font-family: 'Boecklins';
   src: url(http://uelva.com/Boecklins_Universe.ttf) format('ttf');
 }
 
 h2{
-	font-family: Boecklins, sans-serif;	
+  font-family: Boecklins, sans-serif;	
 }
 
 a {
