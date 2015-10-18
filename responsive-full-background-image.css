@@ -1,6 +1,13 @@
 /* Responsive Full Background Image Using CSS
  * Tutorial URL: http://sixrevisions.com/css/responsive-background-image/
 */
+
+@font-face { font-family: Boecklins; src: url('http://uelva.com/Boecklins_Universe.ttf'); }
+
+h2{
+	font-family: Boecklins, sans-serif;	
+}
+
 body {
   /* Location of the image */
   background-image: url(https://github-cloud.s3.amazonaws.com/assets/15127467/10566166/e71a6ac4-75a4-11e5-8ac2-66a1d4f7e66d.jpg);
