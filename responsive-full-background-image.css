@@ -2,11 +2,6 @@
  * Tutorial URL: http://sixrevisions.com/css/responsive-background-image/
 */
 
-@font-face { font-family: Boecklins; src: url('http://uelva.com/Boecklins_Universe.ttf'); }
-
-h2{
-	font-family: Boecklins, sans-serif;	
-}
 
 body {
   /* Location of the image */
