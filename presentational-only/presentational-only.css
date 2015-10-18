@@ -31,7 +31,7 @@ h1 {
 
 @font-face { 
   font-family: Boecklins;
-  src: url('http://uelva.com/Boecklins_Universe.ttf');
+  src: url(http://uelva.com/Boecklins_Universe.ttf) format('ttf');
 }
 
 h2{
