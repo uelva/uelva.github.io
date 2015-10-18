@@ -29,6 +29,15 @@ h1 {
   margin-top: 20px;
 }
 
+@font-face { 
+  font-family: Boecklins;
+  src: url('http://uelva.com/Boecklins_Universe.ttf');
+}
+
+h2{
+	font-family: Boecklins, sans-serif;	
+}
+
 a {
   color: #ffffff;
 }
