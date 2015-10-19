@@ -23,7 +23,6 @@ body {
   /* Pick a solid background color that will be displayed while the background image is loading */
   background-color:#000f11;
   
-  
   /* SHORTHAND CSS NOTATION
    * background: url(background-photo.jpg) center center cover no-repeat fixed;
    */
@@ -36,4 +35,8 @@ body {
      * to improve page load speed on mobile internet connections */
     background-image: url(https://github-cloud.s3.amazonaws.com/assets/15127467/10566165/e718a2de-75a4-11e5-8bc5-e516c701e0b6.jpg);
   }
-	}
+}
+
+div.logo {
+	top:auto;
+}
