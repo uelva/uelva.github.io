@@ -97,8 +97,12 @@ blockquote cite {
 
 .content {
   display: table-cell;
-  vertical-align: top;
+  vertical-align: middle;
   text-align: center;
+}
+
+.logo {
+  vertical-align: top;
 }
 
 /* Special */
