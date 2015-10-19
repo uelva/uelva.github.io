@@ -97,12 +97,12 @@ blockquote cite {
 
 .content {
   display: table-cell;
-  vertical-align: middle;
+  vertical-align: top;
   text-align: center;
 }
 
 .logo {
-  vertical-align: top;
+  vertical-align: middle;
 }
 
 /* Special */
