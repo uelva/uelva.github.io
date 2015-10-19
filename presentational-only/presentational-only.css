@@ -6,6 +6,11 @@ html, body, .container {
   height: 100%;
 }
 
+img {
+  max-width:100%;
+  
+}
+
 /* Reset */
 html, body, h1, p, a, div, section {
   margin: 0;
