@@ -26,11 +26,6 @@ body {
   /* SHORTHAND CSS NOTATION
    * background: url(background-photo.jpg) center center cover no-repeat fixed;
    */
-   
-   .bottom {
-    vertical-align: text-bottom;
-    padding-left: 50%;
-  }
 }
 
 /* For mobile devices */
