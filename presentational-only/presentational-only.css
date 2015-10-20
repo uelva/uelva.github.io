@@ -7,7 +7,7 @@ html, body, .container {
 }
 
 img {
-  max-width:50%;
+  max-width:25%;
   
 }
 
@@ -151,6 +151,10 @@ blockquote cite {
     float: left;
     margin-right: 10px;
     
+  }
+  
+  img {
+  max-width:75%;
   }
   
   body h1 {
