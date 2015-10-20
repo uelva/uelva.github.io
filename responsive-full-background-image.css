@@ -15,7 +15,7 @@ body {
   
   /* Makes the image fixed in the viewport so that it doesn't move when 
      the content height is greater than the image height */
-  background-attachment: scroll;
+  background-attachment: fixed;
   
   /* This is what makes the background image rescale based on its container's size */
   background-size: cover;
@@ -40,7 +40,7 @@ body {
      * to improve page load speed on mobile internet connections */
     background-image: url(https://github-cloud.s3.amazonaws.com/assets/15127467/10566165/e718a2de-75a4-11e5-8bc5-e516c701e0b6.jpg);
   
-    background-attachment: scroll;
+   
   }
   .mobilehide {
     display: none;
