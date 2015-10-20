@@ -26,7 +26,14 @@ body {
   /* SHORTHAND CSS NOTATION
    * background: url(background-photo.jpg) center center cover no-repeat fixed;
    */
+   
+  .mobileshow {
+    display: none;
+  }
+
 }
+
+
 
 /* For mobile devices */
 @media only screen and (max-width: 767px) {
@@ -36,6 +43,10 @@ body {
     background-image: url(https://github-cloud.s3.amazonaws.com/assets/15127467/10566165/e718a2de-75a4-11e5-8bc5-e516c701e0b6.jpg);
   }
   .mobilehide {
-    display: none;;
+    display: none;
+  }
+  
+  .mobileshow {
+    display: inline;
   }
 }
