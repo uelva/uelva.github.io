@@ -35,4 +35,7 @@ body {
      * to improve page load speed on mobile internet connections */
     background-image: url(https://github-cloud.s3.amazonaws.com/assets/15127467/10566165/e718a2de-75a4-11e5-8bc5-e516c701e0b6.jpg);
   }
+  .mobile {
+    display: inline;
+  }
 }
