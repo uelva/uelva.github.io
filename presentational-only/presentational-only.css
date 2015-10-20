@@ -11,6 +11,11 @@ img {
   
 }
 
+bottom {
+  vertical-align: bottom;
+  text-align: right;
+}
+
 /* Reset */
 html, body, h1, p, a, div, section {
   margin: 0;
