@@ -26,13 +26,11 @@ body {
   /* SHORTHAND CSS NOTATION
    * background: url(background-photo.jpg) center center cover no-repeat fixed;
    */
-   
-  .mobileshow {
-    display: none;
-  }
-
 }
 
+.mobileshow {
+    display: none;
+  }
 
 
 /* For mobile devices */
