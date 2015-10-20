@@ -26,6 +26,11 @@ body {
   /* SHORTHAND CSS NOTATION
    * background: url(background-photo.jpg) center center cover no-repeat fixed;
    */
+   
+   .bottom {
+    vertical-align: bottom;
+    text-align: right;
+  }
 }
 
 /* For mobile devices */
