@@ -28,8 +28,8 @@ body {
    */
    
    .bottom {
-    vertical-align: bottom;
-    text-align: right;
+    vertical-align: text-bottom;
+    padding-left: 50%;
   }
 }
 
