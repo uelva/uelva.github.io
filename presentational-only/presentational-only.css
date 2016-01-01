@@ -44,6 +44,10 @@ strong {
   font-weight: 700;
 }
 
+footer {
+  text-align: right;
+}
+
 blockquote {
   display: block;
   max-width: 480px;
