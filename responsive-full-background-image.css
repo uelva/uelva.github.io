@@ -18,7 +18,7 @@ body {
   background-attachment: fixed;
   
   /* This is what makes the background image rescale based on its container's size. Originally 'cover'*/
-  background-size: auto;
+  background-size: cover;
   
   /* Pick a solid background color that will be displayed while the background image is loading */
   background-color:#000f11;
