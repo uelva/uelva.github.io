@@ -202,6 +202,5 @@ blockquote cite {
 
   html, body, .container {
     height: 100vh;
-    overflow: scroll;  /*This fixing the background image from jumping when address bar hides in mobile 12/31/15 -mv*/
   }
 }
