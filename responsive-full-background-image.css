@@ -46,7 +46,8 @@ body {
     background-size: 100% auto;
     padding-bottom: 69px;
     background-repeat: no-repeat;
-    background-attachment: 100vh;
+    background-attachment: fixed;
+    /*background-attachment: 100vh;*/
    
   }
   .mobilehide {
