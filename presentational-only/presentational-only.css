@@ -2,12 +2,11 @@
 
 html, body, .container {
   height: 100%;
-  /*overflow: scroll;  This fixing the background image from jumping when address bar hides in mobile 12/31/15 -mv*/
 }
-
 
 img {
   max-width:35%;
+  
 }
 
 /* Reset */
@@ -45,13 +44,6 @@ strong {
   font-weight: 700;
 }
 
-footer {
-  text-align: right;
-  margin-right: 11px;
-  margin-bottom: 10px;
-  font-size: 50%;
-}
-
 blockquote {
   display: block;
   max-width: 480px;
@@ -83,11 +75,11 @@ blockquote cite {
   position: fixed;
 }
 
-.inner {
-  position: relative;
-  margin: 0 auto;
-  text-align: center;
-}
+  .inner {
+    position: relative;
+    margin: 0 auto;
+    text-align: center;
+  }
 
 .navbar a {
   display: inline-block;
@@ -201,7 +193,6 @@ blockquote cite {
   }
 
   html, body, .container {
-    /*height: 100vh;*/
     height: auto;
   }
 }
