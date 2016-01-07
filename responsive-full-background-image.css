@@ -21,7 +21,7 @@ body {
   
   /* This is what makes the background image rescale based on its container's size.
   original setting: 'cover' */
-  background-size: auto;
+  background-size: 100%;
   
   /* Pick a solid background color that will be displayed while the background image is loading */
   background-color:#000f11;
