@@ -12,7 +12,7 @@ body {
   
   /* Image doesn't repeat
   original was no-repeat*/
-  background-repeat: repeat;
+  background-repeat: no-repeat;
   
   /* Makes the image fixed in the viewport so that it doesn't move when 
   the content height is greater than the image height.
@@ -21,7 +21,7 @@ body {
   
   /* This is what makes the background image rescale based on its container's size.
   original setting: 'cover' */
-  background-size: 100%;
+  background-size: cover;
   
   /* Pick a solid background color that will be displayed while the background image is loading */
   background-color:#000f11;
@@ -43,7 +43,8 @@ body {
     /* The file size of this background image is 93% smaller
      * to improve page load speed on mobile internet connections */
     background-image: url(https://cloud.githubusercontent.com/assets/14241487/10685053/9beb2862-791a-11e5-9354-856e0bfbe3d4.jpg);
-  
+    background-size: 100%;
+    background-repeat: repeat;
    
   }
   .mobilehide {
