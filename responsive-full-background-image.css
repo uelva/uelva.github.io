@@ -17,8 +17,9 @@ body {
      the content height is greater than the image height. Originally was 'fixed'*/
   background-attachment: fixed;
   
-  /* This is what makes the background image rescale based on its container's size. Originally 'cover'*/
-  background-size: cover;
+  /* This is what makes the background image rescale based on its container's size.
+  original setting: 'cover' */
+  background-size: auto;
   
   /* Pick a solid background color that will be displayed while the background image is loading */
   background-color:#000f11;
