@@ -9,9 +9,9 @@ img {
 }
 
 footer {
-  
   font-size: 50%;
   text-align: right;
+  padding: 0px 12px 12px 0px;
 }
 
 /* Reset */
