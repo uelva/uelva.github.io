@@ -1,6 +1,6 @@
 /* Presentational style rules only */
 
-html, footer, body, .container {
+html, body, .container {
   height: 100%;
 }
 
@@ -65,7 +65,7 @@ blockquote cite {
   text-transform: uppercase;
 }
 
-footer {
+.footer {
   font-size: 50%;
   text-align: right;
   padding: 0px 12px 12px 0px;
