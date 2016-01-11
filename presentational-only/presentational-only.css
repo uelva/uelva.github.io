@@ -80,11 +80,11 @@ blockquote cite {
   position: fixed;
 }
 
-  .inner {
-    position: relative;
-    margin: 0 auto;
-    text-align: center;
-  }
+.inner {
+  position: relative;
+  margin: 0 auto;
+  text-align: center;
+}
 
 .navbar a {
   display: inline-block;
