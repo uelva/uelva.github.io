@@ -46,10 +46,11 @@ body {
     
     /*background-size: 100% auto;*/
     background-size: 100%;
-    /*padding-bottom: 56px;*/
+
     background-repeat: no-repeat;
-    background-attachment: fixed;
-    /*background-attachment: 100vh;*/
+    
+    background-attachment: scroll;
+
    
   }
   .mobilehide {
