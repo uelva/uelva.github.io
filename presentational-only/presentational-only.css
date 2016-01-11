@@ -6,7 +6,12 @@ html, body, .container {
 
 img {
   max-width:35%;
+}
+
+footer {
   
+  font-size: 50%;
+  text-align: right;
 }
 
 /* Reset */
