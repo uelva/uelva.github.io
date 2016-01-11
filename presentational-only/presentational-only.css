@@ -65,11 +65,7 @@ blockquote cite {
   text-transform: uppercase;
 }
 
-.footer {
-  font-size: 50%;
-  text-align: right;
-  padding: 0px 12px 12px 0px;
-}
+
 
 /* Layout */
 
@@ -112,6 +108,12 @@ blockquote cite {
 
 .logo {
   vertical-align: middle;
+}
+
+.footer {
+  font-size: 50%;
+  text-align: right;
+  padding: 0px 12px 12px 0px;
 }
 
 /* Special */
