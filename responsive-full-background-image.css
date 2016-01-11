@@ -45,7 +45,7 @@ body {
     background-image: url(https://cloud.githubusercontent.com/assets/14241487/10685053/9beb2862-791a-11e5-9354-856e0bfbe3d4.jpg);*/
     
     /*background-size: 100% auto;*/
-    background-size: 100%;
+    background-size: cover;
 
     background-repeat: no-repeat;
     
