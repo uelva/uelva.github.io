@@ -44,13 +44,20 @@ body {
      * to improve page load speed on mobile internet connections 
     background-image: url(https://cloud.githubusercontent.com/assets/14241487/10685053/9beb2862-791a-11e5-9354-856e0bfbe3d4.jpg);*/
     
-    /*background-size: 100% auto;*/
+    /*background-size: 100% auto;
     background-size: cover;
 
     background-repeat: no-repeat;
     
-    background-attachment: scroll;
+    background-attachment: scroll;*/
+    
+    
+    /*           */
+    background-size: 50px;
 
+    background-repeat: no-repeat;
+    
+    background-attachment: fixed;
    
   }
   .mobilehide {
