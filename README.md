@@ -1,3 +1,4 @@
-# uelva.github.io
+#Uelva Corp
+Manuel Vargas - Web Development
 
-Uelva Corp
+Luke Garrison - Graphic Design
