@@ -422,7 +422,7 @@ a[data-lightbox]:hover::before{
 	margin-left:-25px;
 	border-radius: 50%;
 	background:rgba(0,0,0,.6);
-	color:#78c14a;
+	color:#FFF;
 	font-weight:100;
 	z-index: 1;
 	position: absolute;
@@ -521,7 +521,7 @@ a[data-lightbox]:hover img{
 	color:#F35342!important;
 	border-color:#F35342!important;
 }
-.icon-outer-space{
+.icon-outer-space{				
 	color:#47454B!important;
 	border-color:#47454B!important;
 }
