@@ -500,6 +500,29 @@ a[data-lightbox]:hover img{
 .bgc-platinum{
 	background-color:#E5E5E5;
 }
+
+/* Uelva Colors*/
+.bgc-u_blue{
+	background-color:#708b9a;
+}
+.bgc-u_l_blue{
+	background-color:#90cfd9;
+}
+.bgc-u_green{
+	background-color:#81ca99
+}
+.bgc-u_yellow{
+	background-color:#c3d95e;
+}
+.bgc-u_orange{
+	background-color:#c99947;
+}
+.bgc-u_red{
+	background-color:#cb7b74;
+}
+
+
+
 /* Text colour styles */
 
 .tc-white{
@@ -524,6 +547,32 @@ a[data-lightbox]:hover img{
 .icon-outer-space{				
 	color:#47454B!important;
 	border-color:#47454B!important;
+}
+
+/* Uelva Colors*/
+.icon-u_blue{
+	color:#708b9a!important;
+	border-color:#708b9a!important;
+}
+.icon-u_l_blue{
+	color:#90cfd9;
+	border-color:#90cfd9!important;
+}
+.icon-u_green{
+	color:#81ca99
+	border-color:#81ca99!important;
+}
+.icon-u_yellow{
+	color:#c3d95e;
+	border-color:#c3d95e!important;
+}
+.icon-u_orange{
+	color:#c99947;
+	border-color:#c99947!important;
+}
+.icon-u_red{
+	color:#cb7b74;
+	border-color:#cb7b74!important;
 }
 
 /* Bloc image backgrounds */
