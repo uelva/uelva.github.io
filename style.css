@@ -577,8 +577,8 @@ a[data-lightbox]:hover img{
 
 /* Bloc image backgrounds */
 
-.bg-city-overlay{
-	background-image:url("img/city-overlay.png");
+.bg-img{
+	background-image:url("img/anagani.jpg");
 }
 
 
@@ -642,6 +642,9 @@ a[data-lightbox]:hover img{
 }
 @media (max-width: 767px)
 {
+	.bg-img{
+	background-image:url("img/anagani-min.jpg");
+}
     .page-container{
         overflow-x: hidden;
         position:relative;
