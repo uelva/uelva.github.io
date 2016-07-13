@@ -968,27 +968,7 @@
 					margin-left: 2.5em;
 					padding-left: 0;
 				}
-/*
-				#header nav > ul > ul {
-					list-style: none;
-					display: none;
-					margin: 0;
-					padding-left: 0;
-				}
-				
-				#header nav > ul > ul > li {
-					border-radius: 4px;
-					display: none;
-					margin-left: 2.5em;
-					padding-left: 0;
-				}
-				#header nav > ul > ul > li:hover {
-					display: inline-block;
-				}
-				
-*/
-				
-				
+
 					#header nav > ul > li a {
 						-moz-transition: color 0.2s ease-in-out;
 						-webkit-transition: color 0.2s ease-in-out;
@@ -1019,6 +999,20 @@
 						top: -0.075em;
 						vertical-align: middle;
 					}
+/*					
+					#nav > ul > li.active {
+						background: #3ac984;
+					}
+
+				#nav > ul > li.active a {
+					color: white;
+				}
+					
+*/					
+				#nav > ul > li > ul {
+					display: none;
+				}
+/*Spatial*/
 
 		#header .container {
 			position: relative;
@@ -1068,6 +1062,36 @@
 				border-color: rgba(255, 255, 255, 0.5);
 				color: #ffffff !important;
 			}
+			
+/* Dropotron */
+
+	.dropotron {
+		margin-top: -2px;
+		background: #3ac984;
+		border-radius: 10px;
+		color: white;
+		min-width: 12em;
+		padding: 1em 0;
+	}
+
+		.dropotron > li {
+			line-height: 2em;
+			padding: 0 1em;
+		}
+
+			.dropotron > li > a {
+				color: #FFF;
+				text-decoration: none;
+			}
+
+			.dropotron > li.active > a, .dropotron > li:hover > a {
+				color: #FFF;
+			}
+
+		.dropotron.level-0 {
+			border-radius: 0 10px 10px 10px;
+			font-size: 1em;
+		}			
 
 /* Banner */
 
