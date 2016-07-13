@@ -968,7 +968,27 @@
 					margin-left: 2.5em;
 					padding-left: 0;
 				}
-
+/*
+				#header nav > ul > ul {
+					list-style: none;
+					display: none;
+					margin: 0;
+					padding-left: 0;
+				}
+				
+				#header nav > ul > ul > li {
+					border-radius: 4px;
+					display: none;
+					margin-left: 2.5em;
+					padding-left: 0;
+				}
+				#header nav > ul > ul > li:hover {
+					display: inline-block;
+				}
+				
+*/
+				
+				
 					#header nav > ul > li a {
 						-moz-transition: color 0.2s ease-in-out;
 						-webkit-transition: color 0.2s ease-in-out;
@@ -1103,7 +1123,7 @@
 		.wrapper.style3 {
 			background-attachment: fixed;
 			
-			background-image: url("images/overlay.png"), url("http://excitegym.com/wp-content/uploads/2015/03/nca2015_1crp.jpg");
+			background-image: url("images/overlay.png"), url("../images/banner.jpg");
 			/*background-image: url("images/overlay.png"), url("../images/banner.jpg");
 			*/
 			background-position: center center;
